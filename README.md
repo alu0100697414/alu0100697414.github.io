@@ -6,6 +6,6 @@ Para acceder pinche [aquí](http://alu0100697414.github.io).
 
 ## Datos personales
 
-### José Ángel Concepción Sánchez
-### Estudiante en la ULL
-### alu0100697414@ull.edu.es
+- José Ángel Concepción Sánchez
+- Estudiante en la ULL
+- alu0100697414@ull.edu.es
