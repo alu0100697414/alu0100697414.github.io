@@ -8,8 +8,13 @@
   border: black 2px solid;
 }
 
+#parrafo_int{
+  padding-left: 1%;
+}
+
 #etapa_uni{
   margin: 1%;
+  padding: 1%;
   border: black 2px solid;
 }
 
